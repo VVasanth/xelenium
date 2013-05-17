@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: HtmlUnit
+Implementation-Version: 2.11
+Built-By: admin
+Specification-Vendor: Gargoyle Software Inc.
+Created-By: Apache Maven 3.0.4
+Url: http://htmlunit.sourceforge.net
+Implementation-Vendor: Gargoyle Software Inc.
+Build-Number: 
+SVN-Revision: 
+Implementation-Vendor-Id: net.sourceforge.htmlunit
+Build-Jdk: 1.6.0_35
+Specification-Title: HtmlUnit
+Specification-Version: 2.11
+Archiver-Version: Plexus Archiver
+
